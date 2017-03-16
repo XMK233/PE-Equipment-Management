@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>image/4.png</file>
+    <file>image/4a7eadff9b551651ab47592dd7c07dcd.jpg</file>
+    <file>image/853116e66b3386e81012f2720a10acb2.png</file>
+    <file>image/gamersky_02origin_03_20167111714E4E.png</file>
+    <file>image/gamersky_06origin_11_20161017926842.png</file>
+    <file>image/gamersky_07origin_13_20161017926EFB.png</file>
+    <file>image/gamersky_08origin_15_20165743577C.png</file>
+    <file>image/gamersky_09origin_17_20161191159992.png</file>
+    <file>image/hλlf-life.jpg</file>
+  </qresource>
+  <qresource prefix="添加">
+    <file>image/bg2.jpg</file>
+    <file>image/bg.jpg</file>
+    <file>image/back.jpg</file>
+  </qresource>
+</RCC>
